@@ -24,13 +24,12 @@ A Keras implementation of YOLOv3 (Tensorflow backend) inspired by [allanzelener/
     
     use yolo_image to test and evaluate the image and video. yolo_class define the YOLO class.
 
-4. coco_annotation.py
-
-    convert COCO .json file into .txt for training
- 
-5. voc_annotation.py
+4.coco_annotation.py
     
-    convert VOC .xml file into .txt for training
-    
+    convert COCO .json file into .txt for training and evaluation
 
+5.voc_annotation.py
+    
+    convert VOC .xml file into .txt for training and evaluation
+        
 
